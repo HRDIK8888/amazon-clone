@@ -1,0 +1,15 @@
+body{
+   margin:0 ; 
+   padding:0 ;
+}
+
+.nevbar{
+background-color: black;
+height: 60px;
+width: 100vw;
+}
+
+#logo{
+    padding: 10px;
+    width: 20vh; 
+}
